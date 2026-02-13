@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+Data/
+normalized_skills.csv
+WorkdayAPI/
+files/
